@@ -26,8 +26,9 @@ customer's wait.
   reports back when it did not know something. It may also send promotional
   messages to customers who have consented.
 
-The first two pilot businesses are an ISP and a local tourism agency. The product
-is not built for those verticals — any business is a candidate.
+The first two pilot businesses are an ISP and a local tourism agency, both in
+Mexico. The product is not built for those verticals — any business is a
+candidate.
 
 ## Success criteria
 Measurable and technology-agnostic — an outcome, never a feature.
